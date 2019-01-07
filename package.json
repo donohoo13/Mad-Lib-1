@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Donohoo13/Mad-Lib-Backend/issues"
   },
-  "homepage": "https://github.com/Donohoo13/Mad-Lib-Backend#readme"
+  "homepage": "https://github.com/Donohoo13/Mad-Lib-Backend#readme",
+  "dependencies": {
+    "pg-promise": "^8.5.4"
+  }
 }
